@@ -1,6 +1,6 @@
 Name:		texlive-table-fct
 Version:	41849
-Release:	1
+Release:	2
 Summary:	Draw a variations table of functions and a convexity table of its graph
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/table-fct
